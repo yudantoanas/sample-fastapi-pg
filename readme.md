@@ -17,3 +17,4 @@ fastapi dev main.py
 
 ## Demo
 Visit: https://sample-fastapi-pg.vercel.app/
+API Docs: Visit: https://sample-fastapi-pg.vercel.app/docs
