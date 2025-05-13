@@ -14,3 +14,6 @@ fastapi dev
 # or
 fastapi dev main.py
 ```
+
+## Demo
+Visit: https://sample-fastapi-pg.vercel.app/
